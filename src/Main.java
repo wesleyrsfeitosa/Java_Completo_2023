@@ -20,6 +20,7 @@ public class Main {
 		
 		System.out.println("A soma de num1 + num2 é: " + soma);
 
+		teclado.close();
 	}
 
 }
