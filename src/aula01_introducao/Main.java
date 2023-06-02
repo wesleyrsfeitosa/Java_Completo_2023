@@ -1,3 +1,5 @@
+package aula01_introducao;
+
 import java.util.Scanner;
 
 public class Main {
